@@ -9,45 +9,43 @@ body {
 }
 
 img[src="logo.png"][alt="logo"] {
-  width: 120px;  
-  height: auto; 
+  width: 120px;
+  height: auto;
 }
 
 img[src="../../logo.png"][alt="logo"] {
-  width: 120px;  
-  height: auto; 
+  width: 120px;
+  height: auto;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #ffffff;
-  }
+body {
+  color: #ffffff;
 }
 
 .md-typeset__table table {
-  background-color: rgba(0, 0, 0, 0.9);  
-  color: white;  
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
 }
 
 code.language-python {
-  background-color: rgba(0, 0, 0, 0.9);  
-  color: white;  
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
 }
 
 h1#tutorial-python {
   color: white;
 }
 .md-typeset__table table tbody {
-  background-color: rgba(1, 1, 1, 0.9);  
-  color: white; 
+  background-color: rgba(1, 1, 1, 0.9);
+  color: white;
 }
 
 .md-typeset__table table thead {
-  background-color: rgba(1, 1, 1, 0.9);  
-  color: white; 
+  background-color: rgba(1, 1, 1, 0.9);
+  color: white;
 }
 
 code.language-bash {
-  background-color: rgba(0, 0, 0, 0.9);  
-  color: white;  
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
 }
